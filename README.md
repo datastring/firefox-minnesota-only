@@ -1,4 +1,7 @@
-# Sorry, Minnesota Only
+<h1>
+<img src="icons/logo-48.png" />
+Sorry, Minnesota Only
+</h1>
 
 "Sorry, Minnesota Only" is a Firefox Extension that removes all states starting with "M" except Minnesota. Allowing you to press "M" in your keyboard and go directly to Minnesota, instead of any other option within most dropdown menus.
 
