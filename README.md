@@ -1,6 +1,6 @@
-<h1 align=center><img src="icons/logo-48.png" /> Sorry, Minnesota Only</h1>
+<h1><img src="icons/logo-48.png" /> Sorry, Minnesota Only</h1>
 
-<p align=center>
+<p>
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}?style=for-the-badge">
 <img src="https://img.shields.io/amo/rating/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}?style=for-the-badge" />
 <img src="https://img.shields.io/amo/dw/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}?style=for-the-badge" />
