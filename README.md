@@ -1,12 +1,12 @@
-<h1><img src="icons/logo-48.png" /> Sorry, Minnesota Only</h1>
-
-<p>
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}?style=for-the-badge">
-<img src="https://img.shields.io/amo/rating/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}?style=for-the-badge" />
-<img src="https://img.shields.io/amo/dw/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}?style=for-the-badge" />
-<img src="https://img.shields.io/amo/users/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
+<p align=right>
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}">
+<img src="https://img.shields.io/amo/rating/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}" />
+<img src="https://img.shields.io/amo/dw/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}" />
+<img src="https://img.shields.io/amo/users/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}" />
+<img src="https://img.shields.io/github/license/datastring/firefox-sorry-minnesota-only" />
 </p>
+
+# ![icon](icons/logo-48.png) Sorry, Minnesota Only
 
 "Sorry, Minnesota Only" is a Firefox Extension that removes all states starting with "M" except Minnesota within most dropdown menus. This allows you to press "M" in your keyboard and go directly to it, instead of any other state options.
 
