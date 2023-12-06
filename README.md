@@ -1,4 +1,4 @@
-<h1 align=center><img src="icons/logo-48-inverted.png" />Sorry, Minnesota Only</h1>
+<h1 align=center><img src="icons/logo-48-inverted.png" /> Sorry, Minnesota Only</h1>
 
 <p align=center>
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}">
