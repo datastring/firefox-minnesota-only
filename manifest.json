@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Sorry, Minnesota Only",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Firefox Extension that removes all US states starting with 'M' with the exceptions of Minnesota. Allowing you to press 'M' in your keyboard and go directly to Minnesota, instead of any other option within most dropdown menus.",
   "browser_specific_settings": {
     "gecko": {
