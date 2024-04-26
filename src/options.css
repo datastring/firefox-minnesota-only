@@ -1,39 +1,39 @@
 * {
-    transition: all 750ms;
-    text-align: center;
-    overflow-y: hidden !important;
+  transition: all 750ms;
+  text-align: center;
+  overflow-y: hidden !important;
 }
 
 section {
-    padding-top: 1rem !important;
+  padding-top: 1rem !important;
 }
 
 h1 {
-    line-height: 1.5 !important;
+  line-height: 1.5 !important;
 }
 
 button {
-    border-radius: 5px !important;
-    margin-bottom: 0.5rem !important;
+  border-radius: 5px !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .site-author {
-    color: rebeccapurple;
+  color: rebeccapurple;
 }
 
 .site-author:hover {
-    color: red;
+  color: red;
 }
 
 .fa-heart {
-    color: rebeccapurple;
+  color: rebeccapurple;
 }
 
 .fa-heart:hover {
-    color: red;
+  color: red;
 }
 
 ::selection {
-    background: rebeccapurple;
-    color: #ffffff;
+  background: rebeccapurple;
+  color: #ffffff;
 }

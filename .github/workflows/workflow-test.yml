@@ -11,7 +11,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Build web extension
         id: web-ext-build
         uses: kewisch/action-web-ext@v1
@@ -26,27 +25,8 @@ jobs:
             ".gitattributes",
             "LICENSE",
             "README.md"]'
-
-      # - name: Sign web extension
-      #   id: web-ext-sign
-      #   uses: kewisch/action-web-ext@v1
-      #   with:
-      #     cmd: sign
-      #     channel: listed
-      #     source: ${{ steps.web-ext-build.outputs.target }}
-      #     apiKey: ${{ secrets.FIREFOX_JWT_ISSUER }}
-      #     apiSecret: ${{ secrets.FIREFOX_JWT_SECRET }}
-      #     timeout: 900000
-
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: target.xpi
           path: ${{ steps.web-ext-build.outputs.target }}
-
-      # - name: Create Release
-      #   uses: softprops/action-gh-release@v2
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   with:
-      #     files: ${{ steps.web-ext-sign.outputs.target }}
