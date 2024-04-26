@@ -1,4 +1,4 @@
-# ![logo](src/icons/logo-48-inverted.png) Sorry, Minnesota Only
+# ![logo|40px](src/icons/logo-48-inverted.png) Sorry, Minnesota Only
 
 <p align="">
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{6b66f51a-1613-4d0a-9bdd-ed5dadc152a0}">
