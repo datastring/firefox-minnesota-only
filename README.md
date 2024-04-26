@@ -10,8 +10,6 @@
 
 [![Get the Addon](https://raw.githubusercontent.com/semanticdata/text-revealer-firefox-extension/master/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/sorry-minnesota-only/)
 
-## What it Does
-
 The extension removes all instances of...
 
 | State            | Abbrev. | Others Cases          |
@@ -26,7 +24,7 @@ The extension removes all instances of...
 
 ...from _most_ dropdown menus.
 
-## Acknowledgements
+## 💜 Acknowledgements
 
 Thanks [LogoMakr](LogoMakr.com/app) for providing the logo and special thanks to [@vpicone](https://github.com/vpicone) and their repo [SorryTennesee](https://github.com/vpicone/SorryTennesee), for inspiring this.
 
